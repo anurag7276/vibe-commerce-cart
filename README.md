@@ -14,7 +14,6 @@ Users can view products from the database, add/remove items from a real-time car
 
 ## 📸 Screenshots
 
-*(I highly recommend taking 2-3 screenshots and adding them here. Recruiters love visuals.)*
 
 **Main Application (Products & Cart)**
 
