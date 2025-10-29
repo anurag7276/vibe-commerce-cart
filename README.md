@@ -17,10 +17,13 @@ Users can view products from the database, add/remove items from a real-time car
 *(I highly recommend taking 2-3 screenshots and adding them here. Recruiters love visuals.)*
 
 **Main Application (Products & Cart)**
-`[Insert Screenshot of the main app: products on left, cart on right]`
+
+<img width="1884" height="928" alt="Screenshot 1" src="https://github.com/user-attachments/assets/43f454e3-a843-408b-a077-5adbdb359110" />
 
 **Successful Checkout Receipt**
-`[Insert Screenshot of the successful checkout receipt modal]`
+
+
+<img width="1644" height="793" alt="Screenshot2" src="https://github.com/user-attachments/assets/3b34082c-26f9-4a22-8894-a74f837b5b86" />
 
 ## ✨ Features
 
