@@ -10,7 +10,7 @@ Users can view products from the database, add/remove items from a real-time car
 
 ## Demo Video
 
-[**<-- PASTE YOUR 1-2 MINUTE LOOM/YOUTUBE LINK HERE**]
+[**Click Here to Watch the 2-Minute Demo**](https://www.loom.com/share/10c702b2697b46409e4187a1998bdfb9)
 
 ## 📸 Screenshots
 
